@@ -1,0 +1,12 @@
+# Local synth history and addon settings
+dacompass_ledger.csv
+settings/
+*.settings
+
+# Logs and editor/OS files
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
